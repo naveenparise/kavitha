@@ -1,0 +1,21 @@
+{
+    "user":[
+
+        {
+
+            "name":"chandu",
+            "password":"cha@1234",
+            "email":"chandu@98765"
+        },
+        {
+             "name":"mani",
+            "password":"man@1234",
+            "email":"mani@98765"
+        },
+        {
+             "name":"somya",
+            "password":"sou@1234",
+            "email":"soumya@98765"
+        }
+    ]
+}
